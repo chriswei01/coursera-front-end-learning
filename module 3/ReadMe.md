@@ -1,1 +1,1 @@
-Link to the website: https://github.com/chriswei01/coursera-front-end-learning/blob/main/module%203/index.html
+Link to the website: https://chriswei01.github.io/coursera-front-end-learning/blob/main/module%203/index.html
